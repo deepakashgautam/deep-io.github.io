@@ -1,0 +1,53 @@
+ body {    margin: 0px;
+	           text-align: center;
+	           background-color: #ecfcff;
+               font-family:  cursive;
+           } 		 
+	
+	
+	.siblings{
+		     margin-left: auto;
+		     margin-right:auto;
+	        }
+	
+	.links{
+		     margin-left: auto;
+		     margin-right:auto;
+	       }
+	
+	.skills{
+		     margin-left: auto;
+		     margin-right:auto;
+	        }
+	
+	
+		   
+    .circular{
+                border-radius: 40%;
+	        
+			 }
+	  
+	 
+     hr{
+	       border-color: grey;
+	       border-style: dotted;
+           border-bottom-width: 6px;
+		   border-top-width: 0;
+		   width: 3%
+	      
+	      }
+		  
+    
+	 h1:hover{
+		 
+       		 color: #8186d5;
+		 
+	         }
+		  
+		  
+     .school:hover{
+		             color: #8186d5;
+     
+	              }	 
+
+		   
