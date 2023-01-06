@@ -25,7 +25,12 @@
     .circular{
                 border-radius: 40%;
 	        
-			 }
+	     }
+
+
+   table{ 
+	   text-align: center;
+         }
 	  
 	 
      hr{
